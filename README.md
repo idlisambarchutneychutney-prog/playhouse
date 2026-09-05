@@ -1,6 +1,6 @@
 # Hack Club Playhouse CAD Model
 
-A custom two-story playhouse design for [Hack Club Playhouse](https://playhouse.hackclub.com/). Designed using Onshape, this model has living spaces—including a kitchenette, seating area, ladder access, and a loft space.
+A custom two-story playhouse design for [Hack Club Playhouse](https://playhouse.hackclub.com/). Designed using Onshape, this model has living spaces including a kitchenette, seating area, ladder access, and a loft space.
 
 <img width="728" height="586" alt="Screenshot 2026-09-04 185721" src="https://github.com/user-attachments/assets/7ebc618d-8df3-469c-8219-3e504b840b4f" />
 ---
